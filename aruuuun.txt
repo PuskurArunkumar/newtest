@@ -1,0 +1,65 @@
+31/07/2019
+Arun:
+MCOMRE-195357 completed
+MCOMRE-195354 complted
+MCOMRE-195185 Pending
+
+Taufeeq: 
+
+devops_ team in CC. - db refresh
+
+01/08/2019
+Arun:
+MCOMRE-195521 - completed.
+MCOMRE-195356 - Completed.
+
+Arun
+1 week of this month: 02/08/2019
+# MCOMRE-195572 - Completed
+# MCOMRE-195595 - completed but Have to Close the ticket
+# MCOMRE-195573 - Completed but have to close
+Taufeeq:
+# MCOMRE-195568 - completed.
+
+
+DB Refresh :
+Date/time:
+Night :
+1. PROD SUPPORT
+   05/Aug/2019
+   2 Week - Mon 10 AM (PST)
+   2 Week - Mon 10:30 PM (IST)
+2. PERF 2  - Cannot Handle
+   08 Aug 2019
+   2 Week - Thurs 9 AM (PST)
+   2 Week - Thurs 9:30 PM (IST)
+3. 
+
+Day :
+1. TRAIN-PROD
+   2 Week - Sun 10 PM (PST)
+   2 Week - Mon 10:30AM (IST)
+
+2. NSC
+2 Week - Monday 4 AM (PST)
+
+3. E2E
+2 Week- Fri 5 AM (PST)
+
+4. FDS
+4 Week - Wed 9 PM (PST)
+
+5. CELL 3
+08 Aug 2019 
+2 Week - Thurs 5 PM (PST) 
+
+6. CELL 2
+07 Aug 2019 
+4 Week - Wed 5 PM (PST)
+
+7. CELL 1
+08 Aug 2019 
+2 Week - Thurs 4 AM (PST)
+
+
+
